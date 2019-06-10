@@ -1,0 +1,29 @@
+#border {
+    margin: 0 10% 0 10%;
+    border: 10px #bdc3c7 solid;
+}
+
+.article {
+    font-family: Source Sans Pro;
+    margin: 2%;
+    text-align: justify;
+}
+
+.date {
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.title {
+    color: #2c3e50;
+}
+
+.first_paragraph {
+    border-left: 3px #bdc3c7 solid;
+    padding-left: 1%;
+}
+
+hr {
+    margin: 0 2% 0 2%;
+}
