@@ -1,0 +1,14 @@
+img{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+h1 {
+    font-family: Amatic SC;
+    margin-left: 1.66%;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    border-bottom: 3px rgb(190, 190, 190) solid;
+    width: 96.64%;
+}
